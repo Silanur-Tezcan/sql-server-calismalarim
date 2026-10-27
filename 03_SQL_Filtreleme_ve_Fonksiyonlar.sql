@@ -2,7 +2,6 @@
 -- ============================================================
 -- SQL SERVER DERS 2
 -- KONU: FILTRELEME, SIRALAMA VE TOPLAMA FONKSIYONLARI
--- TARIH: 27.10.2026
 -- VERITABANI: OkulDB
 -- TABLO: dbo.Ogrenciler
 -- ============================================================
