@@ -149,12 +149,12 @@
 -- Bu nedenle sorgu sonucunda kayit gelmez.
 -- Bu durum SQL hatasi degildir.
 
--- SELECT
---     Bolum,
---     COUNT(*) AS OgrenciSayisi
--- FROM dbo.Ogrenciler
--- GROUP BY Bolum
--- HAVING COUNT(*) > 4;
+ SELECT
+    Bolum,
+   COUNT(*) AS OgrenciSayisi
+ FROM dbo.Ogrenciler
+ GROUP BY Bolum
+ HAVING COUNT(*) > 4;
 
 
 -- ============================================================
